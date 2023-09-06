@@ -1,63 +1,88 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
-    "skills": [{
-     
-            "title": "Languages & Databases",
-            "items" : [
-     
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
-                },
-                {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
-                }
-        ]},
+  "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+  "skills": [
+    {
+      "title": "Frontend",
+      "items": [
         {
-            "title": "Frameworks & Technologies",
-            "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
-                }
-            ]
+          "icon": "images/skills/html.png",
+          "title": "Html"
         },
         {
-            "title" : "Tools & Platforms",
-            "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
-                {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
-                }
-            ]
+          "icon": "images/skills/css.png",
+          "title": "Css"
+        },
+        {
+          "icon": "images/skills/js.png",
+          "title": "JavaScript"
+        },
+        {
+          "icon": "images/skills/react.png",
+          "title": "React"
+        },
+        {
+          "icon": "images/skills/next.png",
+          "title": "Next"
+        },
+        {
+          "icon": "images/skills/php.png",
+          "title": "PHP"
+        }
+      ]
+    },
+    {
+      "title": "Backend",
+      "items": [
+        {
+          "icon": "images/skills/mysql.png",
+          "title": "MySQL"
+        },
+        {
+          "icon": "images/skills/mongo-db.png",
+          "title": "MongoDb"
+        },
+        {
+          "icon": "images/skills/nodejs.png",
+          "title": "Nodejs"
+        },
+        {
+          "icon": "images/skills/solidity.png",
+          "title": "Solidity"
+        },
+        {
+          "icon": "images/skills/hardhat.png",
+          "title": "Hardhat"
+        }
+      ]
+    },
+    {
+      "title": "Tools & Platforms",
+      "items": [
+        {
+          "icon": "images/skills/linux.png",
+          "title": "Linux"
+        },
+        {
+          "icon": "images/skills/git.png",
+          "title": "Git"
+        },
+        {
+          "icon": "images/skills/evm.png",
+          "title": "EVM"
+        },
+        {
+          "icon": "images/skills/photoshop.png",
+          "title": "Photoshop"
+        },
+        {
+          "icon": "images/skills/illu.png",
+          "title": "Illustrator"
+        },
+        {
+          "icon": "images/skills/premiere-pro.png",
+          "title": "Premiere Pro"
+        }
+      ]
     }
-]}
+  ]
+}
